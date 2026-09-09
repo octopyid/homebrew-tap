@@ -1,8 +1,7 @@
 class Rune < Formula
-  desc "Run tasks, not scripts. A project-local task runner that turns your Runefile into a first-class CLI"
+  desc "Project-local task runner that turns Runefiles into CLI commands"
   homepage "https://github.com/octopyid/rune"
   license "MIT"
-  version "1.0.0"
 
   on_macos do
     on_arm do
