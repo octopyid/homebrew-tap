@@ -5,12 +5,12 @@ class Rune < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/octopyid/rune/releases/download/v1.1.0/rune-darwin-arm64"
-      sha256 "dd75b5a120800d6cbbf1c82fb0e23adb4836c07f5695d5462b7e0bda324fc032"
+      url "https://github.com/octopyid/rune/releases/download/v1.3.1/rune-darwin-arm64"
+      sha256 "2bdcfd3593a185879890822f10dce2bac1c3b9fa646db44aad6282ef92a65526"
     end
     on_intel do
-      url "https://github.com/octopyid/rune/releases/download/v1.1.0/rune-darwin-amd64"
-      sha256 "4dc706d97c7aa72546b7348708048e49817b2f9e00a0843a1a2d520fda0c1f94"
+      url "https://github.com/octopyid/rune/releases/download/v1.3.1/rune-darwin-amd64"
+      sha256 "91ac4b4f46041a4f6805f3ad861160bb538c208435a1104501ff769fcee399ef"
     end
   end
 
